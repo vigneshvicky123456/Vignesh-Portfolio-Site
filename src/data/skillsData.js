@@ -5,7 +5,9 @@ export const skillsData = [
     'Javascript',
     'React',
     'Node JS',
+    'Express Js',
     'MongoDB',
     'MySQL',
+    'C',
     'Git'
 ]
